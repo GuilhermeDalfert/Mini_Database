@@ -1,0 +1,3 @@
+Aluno: Fabiano Costa, Turma: 30, Nota: 8.70, ID: 1.
+Aluno: Cláudia Menez, Turma: 30, Nota: 9.70, ID: 2.
+Aluno: Renato Cariani, Turma: 31, Nota: 9.10, ID: 3.
